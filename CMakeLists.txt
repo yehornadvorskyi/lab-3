@@ -10,4 +10,6 @@ endif()
 
 add_executable(lab-3
     main.cpp
+    action.cpp
+    action.h
 )
